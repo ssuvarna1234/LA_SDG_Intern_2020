@@ -131,7 +131,7 @@ Intra <- sum_c.Area2/sum_Shape_Area
 Intra
 
 # Due to time constraints I was only able to create a script up till the...
-#Intra_Connectivity Calculations. I highly encourage the next round of researchers to continue this wokring scirpt. 
+#Intra_Connectivity Calculations. I highly encourage the next round of researchers to continue this working script. 
 
 
 
